@@ -7,16 +7,23 @@ use Illuminate\Http\Request;
 use App\Http\Requests;
 use App\Http\Response;
 use App\Http\Controllers\Controller;
+use Illuminate\Support\Facades\Log;
 
 class APITraineeController extends Controller
 {
     public function listBooks(Request $requests) {
-        $path = storage_path()."/app/apitraineedata/listbooks.json";
-        $file_content = json_decode(@file_get_contents($path), true);
-        $result = 'Succeess';
-        if (!$file_content) {
-            $result = 'Failed';
+        $account = $requests->input('account');
+        Log::info($account);
+        $result = 'Failed';
+        $file_content = null;
+        if (strlen($account) > 0) {
+            $path = storage_path() . "/app/apitraineedata/listbooks.json";
+            $file_content = json_decode(@file_get_contents($path), true);
+            if ($file_content) {
+                $result = 'Success';
+            }
         }
+
         return response()->json([
             'result' => $result,
             'content' => $file_content

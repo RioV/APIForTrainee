@@ -4,70 +4,70 @@
             "id" : 1,
             "name": "Harry Potter and the Deathly Hallows",
             "price": 300000,
-            "cover": "https://d2arxad8u2l0g7.cloudfront.net/books/1474171184l/136251.jpg",
+            "cover": "http://d2arxad8u2l0g7.cloudfront.net/books/1474171184l/136251.jpg",
             "sample": "It's no longer safe for Harry at Hogwarts, so he and his best friends, Ron and Hermione, are on the run. Professor Dumbledore has given them clues about what they need to do to defeat the dark wizard, Lord Voldemort, once and for all, but it's up to them to figure out what these hints and suggestions really mean. Their cross-country odyssey has them searching desperately for the answers, while evading capture or death at every turn. At the same time, their friendship, fortitude, and sense of right and wrong are tested in ways they never could have imagined. The ultimate battle between good and evil that closes out this final chapter of the epic series takes place where Harry's Wizarding life began: at Hogwarts. The satisfying conclusion offers shocking last-minute twists, incredible acts of courage, powerful new forms of magic, and the resolution of many mysteries. Above all, this intense, cathartic book serves as a clear statement of the message at the heart of the Harry Potter series: that choice matters much more than destiny, and that love will always triumph over death."
         },
         {
             "id" : 2,
             "name": "The Hunger Games",
             "price": 200000,
-            "cover": "2.jpg",
+            "cover": "http://d2arxad8u2l0g7.cloudfront.net/books/1447303603l/2767052.jpg",
             "sample": "The nation of Panem, formed from a post-apocalyptic North America, is a country that consists of a wealthy Capitol region surrounded by 12 poorer districts. Early in its history, a rebellion led by a 13th district against the Capitol resulted in its destruction and the creation of an annual televised event known as the Hunger Games. In punishment, and as a reminder of the power and grace of the Capitol, each district must yield one boy and one girl between the ages of 12 and 18 through a lottery system to participate in the games. The 'tributes' are chosen during the annual Reaping and are forced to fight to the death, leaving only one survivor to claim victory. When 16-year-old Katniss's young sister, Prim, is selected as District 12's female representative, Katniss volunteers to take her place. She and her male counterpart Peeta, are pitted against bigger, stronger representatives, some of whom have trained for this their whole lives. , she sees it as a death sentence. But Katniss has been close to death before. For her, survival is second nature."
         },
         {
             "id" : 3,
             "name": "The Kite Runner",
             "price": 200000,
-            "cover": "3.jpg",
+            "cover": "http://d2arxad8u2l0g7.cloudfront.net/books/1394898159l/77203.jpg",
             "sample": "Khaled Hosseini's #1 New York Times Bestselling Debut “It may be unfair, but what happens in a few days, sometimes even a single day, can change the course of a whole lifetime. Amir is the son of a wealthy Kabul merchant, a member of the ruling caste of Pashtuns. Hassan, his servant and constant companion, is a Hazara, a despised and impoverished caste. Their uncommon bond is torn by Amir's choice to abandon his friend amidst the increasing ethnic, religious, and political tensions of the dying years of the Afghan monarchy, wrenching them far apart. But so strong is the bond between the two boys that Amir journeys back to a distant world, to try to right past wrongs against the only true friend he ever had. The unforgettable, heartbreaking story of the unlikely friendship between a wealthy boy and the son of his father’s servant, The Kite Runner is a beautifully crafted novel set in a country that is in the process of being destroyed. It is about the power of reading, the price of betrayal, and the possibility of redemption; and an exploration of the power of fathers over sons—their love, their sacrifices, their lies. A sweeping story of family, love, and friendship told against the devastating backdrop of the history of Afghanistan over the last thirty years, The Kite Runner is an unusual and powerful novel that has become a beloved, one-of-a-kind classic."
         },
         {
             "id" : 4,
             "name": "The Book Thief",
             "price": 200000,
-            "cover": "4.jpg",
+            "cover": "http://d2arxad8u2l0g7.cloudfront.net/books/1390053681l/19063.jpg",
             "sample": "It’s just a small story really, about among other things: a girl, some words, an accordionist, some fanatical Germans, a Jewish fist-fighter, and quite a lot of thievery. . . . Set during World War II in Germany, Markus Zusak’s groundbreaking new novel is the story of Liesel Meminger, a foster girl living outside of Munich. Liesel scratches out a meager existence for herself by stealing when she encounters something she can’t resist–books. With the help of her accordion-playing foster father, she learns to read and shares her stolen books with her neighbors during bombing raids as well as with the Jewish man hidden in her basement before he is marched to Dachau. This is an unforgettable story about the ability of books to feed the soul."
         },
         {
             "id" : 5,
             "name": "Harry Potter and the Half-Blood Prince",
             "price": 200000,
-            "cover": "5.jpg",
+            "cover": "http://d2arxad8u2l0g7.cloudfront.net/books/1361039191l/1.jpg",
             "sample": "It is the middle of the summer, but there is an unseasonal mist pressing against the windowpanes. Harry Potter is waiting nervously in his bedroom at the Dursleys' house in Privet Drive for a visit from Professor Dumbledore himself. One of the last times he saw the Headmaster was in a fierce one-to-one duel with Lord Voldemort, and Harry can't quite believe that Professor Dumbledore will actually appear at the Dursleys' of all places. Why is the Professor coming to visit him now? What is it that cannot wait until Harry returns to Hogwarts in a few weeks' time? Harry's sixth year at Hogwarts has already got off to an unusual start, as the worlds of Muggle and magic start to intertwine... J.K. Rowling charts Harry Potter's latest adventures in his sixth year at Hogwarts with consummate skill and in breathtaking fashion."
         },
         {
             "id" : 6,
             "name": "Harry Potter and the Order of the Phoenix",
             "price": 200000,
-            "cover": "6.jpg",
+            "cover": "http://d2arxad8u2l0g7.cloudfront.net/books/1387141547l/2.jpg",
             "sample": "Harry Potter is due to start his fifth year at Hogwarts School of Witchcraft and Wizardry. His best friends Ron and Hermione have been very secretive all summer and he is desperate to get back to school and find out what has been going on. However, what Harry discovers is far more devastating than he could ever have expected...Suspense, secrets and thrilling action from the pen of J.K. Rowling ensure an electrifying adventure that is impossible to put down."
         },
         {
             "id" : 7,
             "name": "The Help",
             "price": 200000,
-            "cover": "7.jpg",
+            "cover": "http://d2arxad8u2l0g7.cloudfront.net/books/1346100365l/4667024.jpg",
             "sample": "Three ordinary women are about to take one extraordinary step.... Twenty-two-year-old Skeeter has just returned home after graduating from Ole Miss. She may have a degree, but it is 1962, Mississippi, and her mother will not be happy till Skeeter has a ring on her finger. Skeeter would normally find solace with her beloved maid Constantine, the woman who raised her, but Constantine has disappeared and no one will tell Skeeter where she has gone. Aibileen is a black maid, a wise, regal woman raising her seventeenth white child. Something has shifted inside her after the loss of her own son, who died while his bosses looked the other way. She is devoted to the little girl she looks after, though she knows both their hearts may be broken."
         },
         {
             "id" : 8,
             "name": "A Thousand Splendid Suns",
             "price": 200000,
-            "cover": "8.jpg",
+            "cover": "http://d2arxad8u2l0g7.cloudfront.net/books/1345958969l/128029.jpg",
             "sample": "Born a generation apart and with very different ideas about love and family, Mariam and Laila are two women brought jarringly together by war, by loss and by fate. As they endure the ever escalating dangers around them—in their home as well as in the streets of Kabul—they come to form a bond that makes them both sisters and mother-daughter to each other, and that will ultimately alter the course not just of their own lives but of the next generation."
         },
         {
             "id" : 9,
             "name": "Life of Pi",
             "price": 200000,
-            "cover": "9.jpg",
+            "cover": "http://d2arxad8u2l0g7.cloudfront.net/books/1320562005l/4214.jpg",
             "sample": "Life of Pi is a fantasy adventure novel by Yann Martel published in 2001. The protagonist, Piscine Molitor Pi Patel, a Tamil boy from Pondicherry, explores issues of spirituality and practicality from an early age. He survives 227 days after a shipwreck while stranded on a boat in the Pacific Ocean with a Bengal tiger named Richard Parker."
         },
         {
             "id" : 10,
             "name": "Catching Fire",
             "price": 200000,
-            "cover": "10.jpg",
+            "cover": "http://d2arxad8u2l0g7.cloudfront.net/books/1358273780l/6148028.jpg",
             "sample": "Sparks are igniting. Flames are spreading. And the Capitol wants revenge. Against all odds, Katniss has won the Hunger Games. She and fellow District 12 tribute Peeta Mellark are miraculously still alive. Katniss should be relieved, happy even. After all, she has returned to her family and her longtime friend, Gale. Yet nothing is the way Katniss wishes it to be. Gale holds her at an icy distance. Peeta has turned his back on her completely. And there are whispers of a rebellion against the Capitol - a rebellion that Katniss and Peeta may have helped create. Much to her shock, Katniss has fueled an unrest she's afraid she cannot stop. And what scares her even more is that she's not entirely convinced she should try. As time draws near for Katniss and Peeta to visit the districts on the Capitol's cruel Victory Tour, the stakes are higher than ever. If they can't prove, without a shadow of a doubt, that they are lost in their love for each other, the consequences will be horrifying. In Catching Fire, the second novel in the Hunger Games trilogy, Suzanne Collins continues the story of Katniss Everdeen, testing her more than ever before...and surprising readers at every turn."
         }
     ]

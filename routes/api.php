@@ -17,7 +17,7 @@ Route::get('/user', function (Request $request) {
     return $request->user();
 })->middleware('auth:api');
 
-Route::get('getListBooks', 'APITrainee\APITraineeController@listBooks');
+Route::post('getListBooks', 'APITrainee\APITraineeController@listBooks');
 Route::get('getEmployee', 'APITrainee\APITraineeController@employee');
 Route::get('/', function (Request $request) {
     return 'Hello World';
