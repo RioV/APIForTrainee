@@ -18,3 +18,8 @@ Route::get('/user', function (Request $request) {
 })->middleware('auth:api');
 
 Route::get('getListBooks', 'APITrainee\APITraineeController@listBooks');
+Route::get('getEmployee', 'APITrainee\APITraineeController@employee');
+Route::get('/', function (Request $request) {
+    return 'Hello World';
+});
+
