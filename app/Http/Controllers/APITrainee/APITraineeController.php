@@ -30,6 +30,14 @@ class APITraineeController extends Controller
         ]);
     }
 
+    public function dataSync(Request $requests) {
+        sleep(5);
+
+        return response()->json([
+            'result' => "Success"
+        ]);
+    }
+
     public function employee(Request $requests) {
         $content = json_decode('{"employees":[{"lastName":"Doe","firstName":"John"},{"lastName":"Smith","firstName":"Anna"},{"lastName":"Jones","firstName":"Peter"}]}');
 
