@@ -32,9 +32,13 @@ class APITraineeController extends Controller
 
     public function dataSync(Request $requests) {
         sleep(5);
-
+        $conditionCheck = rand (0, 10);
+        $result = "Success";
+        if ($conditionCheck > 7) {
+            $result = "Failed";
+        }
         return response()->json([
-            'result' => "Success"
+            'result' => $result
         ]);
     }
 
