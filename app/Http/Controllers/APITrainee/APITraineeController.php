@@ -50,4 +50,12 @@ class APITraineeController extends Controller
             'content' => $content
         ]);
     }
+
+    public function index (Request $requests) {
+//        return response()->json([
+//            'result' => "Success",
+//            'content' => "Hello"
+//        ]);
+        return view('welcome');
+    }
 }

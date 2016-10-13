@@ -18,9 +18,11 @@ Route::get('/user', function (Request $request) {
 })->middleware('auth:api');
 
 Route::post('getListBooks', 'APITrainee\APITraineeController@listBooks');
+Route::post('getPdfLink', 'APITrainee\APITraineeController@pdfLink');
 Route::get('checkDataSync', 'APITrainee\APITraineeController@dataSync');
 Route::get('getEmployee', 'APITrainee\APITraineeController@employee');
-Route::get('/', function (Request $request) {
-    return 'Hello World';
-});
+Route::get('/', 'APITrainee\APITraineeController@index');
+
+Route::post('/registerDeviceTokenForUser', 'APITrainee\PushNotificationController@registerDeviceTokenForUser');
+Route::post('/registerdevicetokenforuser', 'APITrainee\PushNotificationController@registerDeviceTokenForUser');
 
