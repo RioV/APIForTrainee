@@ -11,5 +11,6 @@
 |
 */
 
-Route::post('/pushnotification', 'APITrainee\PushNotificationController@pushnotification');
+Route::get('/pushnotification', 'APITrainee\PushNotificationController@pushNotificationView');
+Route::post('/pushnotification', 'APITrainee\PushNotificationController@pushNotification');
 Route::get('/', 'APITrainee\APITraineeController@index');
