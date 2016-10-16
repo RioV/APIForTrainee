@@ -73,7 +73,7 @@ class PushNotificationController extends Controller
             $badge = 1;
         }
         $user = User::where('name', '=', $account)->first();
-        Log::info($user);
+        Log::info($user->device_token);
 
         if ($user == null) {
             $validator->errors()->add('name', 'Account Not Exist');
@@ -82,7 +82,7 @@ class PushNotificationController extends Controller
                 ->withInput();
         }
         // Put your device token here (without spaces):
-        $deviceToken = 'dfc0b7ae143f82275bc031148bea8d15ce7b64c646ba2151abbfcd7f63debf8e';
+        $deviceToken = $user->device_token;
 
         // Put your private key's passphrase here:
 //        $passphrase = env('iOS_NOTIFICATION_PASS');
